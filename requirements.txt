@@ -1,0 +1,7 @@
+streamlit>=1.30,<2
+# Planned dependencies; uncomment when the corresponding features are implemented:
+# PyMuPDF
+# faiss-cpu
+# huggingface_hub
+# sentence-transformers
+# python-dotenv
